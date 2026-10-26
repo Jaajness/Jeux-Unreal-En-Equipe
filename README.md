@@ -24,8 +24,8 @@ Projet collectif réalisé en 2025 dans le cadre de ma formation en Technique d�
 | Membre | Rôle |
 |---|---|
 | **Éli Bousquet** | Développeur Unreal & coordinateur technique |
-//| *Nom du coéquipier* | *Rôle* |
-//| *Nom du coéquipier* | *Rôle* |
+| *Nom du coéquipier* | *Rôle* |
+| *Nom du coéquipier* | *Rôle* |
 
 ## Technologies
 
